@@ -1,0 +1,25 @@
+{
+  "name": "HRIS MANAGEMEN YIQUL- Yayasan Islam Qudwatul Ummah",
+  "short_name": "HRIS YIQUL",
+  "description": "HRIS MANAGEMEN Yayasan Islam Qudwatul Ummah Lebak",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070913",
+  "theme_color": "#070913",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
